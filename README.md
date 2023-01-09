@@ -1,4 +1,4 @@
-# Class Notes Week X
+# Class Notes Week 2
 ## UML Example
 <img width="784" alt="Screen Shot 2022-09-09 at 9 21 10 PM" src="https://user-images.githubusercontent.com/102199778/189465181-22f7b753-8848-4094-b9ce-172772563abf.png">
 UML is a spatial representation that cescribes: definition of a class and how different classes relate
